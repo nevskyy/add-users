@@ -45,8 +45,9 @@
 
 .controll-buttons {
   display: flex;
-  gap: 50px;
+  gap: 15px;
   justify-content: center;
+  width: 750px;
 
   &__button {
     border: none;
